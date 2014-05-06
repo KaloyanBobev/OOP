@@ -1,0 +1,6 @@
+D:\TELERIK\C# Proekti\OOP\003.HomeworkExtensionMethod\PublishingEvants\bin\Debug\PublishingEvants.exe.config
+D:\TELERIK\C# Proekti\OOP\003.HomeworkExtensionMethod\PublishingEvants\obj\Debug\008.PublishingEvants.csprojResolveAssemblyReference.cache
+D:\TELERIK\C# Proekti\OOP\003.HomeworkExtensionMethod\PublishingEvants\bin\Debug\PublishingEvants.exe
+D:\TELERIK\C# Proekti\OOP\003.HomeworkExtensionMethod\PublishingEvants\bin\Debug\PublishingEvants.pdb
+D:\TELERIK\C# Proekti\OOP\003.HomeworkExtensionMethod\PublishingEvants\obj\Debug\PublishingEvants.exe
+D:\TELERIK\C# Proekti\OOP\003.HomeworkExtensionMethod\PublishingEvants\obj\Debug\PublishingEvants.pdb

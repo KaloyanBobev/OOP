@@ -1,0 +1,6 @@
+D:\TELERIK\C# Proekti\OOP\CommonTypeSystem\PersonClass\bin\Debug\PersonClass.exe.config
+D:\TELERIK\C# Proekti\OOP\CommonTypeSystem\PersonClass\bin\Debug\PersonClass.exe
+D:\TELERIK\C# Proekti\OOP\CommonTypeSystem\PersonClass\bin\Debug\PersonClass.pdb
+D:\TELERIK\C# Proekti\OOP\CommonTypeSystem\PersonClass\obj\Debug\PersonClass.csprojResolveAssemblyReference.cache
+D:\TELERIK\C# Proekti\OOP\CommonTypeSystem\PersonClass\obj\Debug\PersonClass.exe
+D:\TELERIK\C# Proekti\OOP\CommonTypeSystem\PersonClass\obj\Debug\PersonClass.pdb

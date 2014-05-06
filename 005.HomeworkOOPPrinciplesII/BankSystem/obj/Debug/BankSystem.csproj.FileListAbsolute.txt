@@ -1,0 +1,2 @@
+D:\TELERIK\C# Proekti\OOP\HomeworkOOPPrinciplesII\BankSystem\bin\Debug\BankSystem.exe.config
+D:\TELERIK\C# Proekti\OOP\005.HomeworkOOPPrinciplesII\BankSystem\bin\Debug\BankSystem.exe.config

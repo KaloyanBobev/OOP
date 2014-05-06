@@ -1,0 +1,6 @@
+D:\TELERIK\C# Proekti\OOP\003.HomeworkExtensionMethod\002.ExtansiomMethodIEnumerable\bin\Debug\002.ExtansiomMethodIEnumerable.exe.config
+D:\TELERIK\C# Proekti\OOP\003.HomeworkExtensionMethod\002.ExtansiomMethodIEnumerable\bin\Debug\002.ExtansiomMethodIEnumerable.exe
+D:\TELERIK\C# Proekti\OOP\003.HomeworkExtensionMethod\002.ExtansiomMethodIEnumerable\bin\Debug\002.ExtansiomMethodIEnumerable.pdb
+D:\TELERIK\C# Proekti\OOP\003.HomeworkExtensionMethod\002.ExtansiomMethodIEnumerable\obj\Debug\002.ExtansiomMethodIEnumerable.csprojResolveAssemblyReference.cache
+D:\TELERIK\C# Proekti\OOP\003.HomeworkExtensionMethod\002.ExtansiomMethodIEnumerable\obj\Debug\002.ExtansiomMethodIEnumerable.exe
+D:\TELERIK\C# Proekti\OOP\003.HomeworkExtensionMethod\002.ExtansiomMethodIEnumerable\obj\Debug\002.ExtansiomMethodIEnumerable.pdb

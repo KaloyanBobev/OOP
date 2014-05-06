@@ -1,0 +1,9 @@
+D:\TELERIK\C# Proekti\OOP\HomeworkOOPPrinciplesII\InvalidRangeException\bin\Debug\InvalidRangeException.exe.config
+D:\TELERIK\C# Proekti\OOP\HomeworkOOPPrinciplesII\InvalidRangeException\obj\Debug\InvalidRangeException.csprojResolveAssemblyReference.cache
+D:\TELERIK\C# Proekti\OOP\HomeworkOOPPrinciplesII\InvalidRangeException\bin\Debug\InvalidRangeException.exe
+D:\TELERIK\C# Proekti\OOP\HomeworkOOPPrinciplesII\InvalidRangeException\bin\Debug\InvalidRangeException.pdb
+D:\TELERIK\C# Proekti\OOP\HomeworkOOPPrinciplesII\InvalidRangeException\obj\Debug\InvalidRangeException.exe
+D:\TELERIK\C# Proekti\OOP\HomeworkOOPPrinciplesII\InvalidRangeException\obj\Debug\InvalidRangeException.pdb
+D:\TELERIK\C# Proekti\OOP\005.HomeworkOOPPrinciplesII\InvalidRangeException\bin\Debug\InvalidRangeException.exe.config
+D:\TELERIK\C# Proekti\OOP\005.HomeworkOOPPrinciplesII\InvalidRangeException\obj\Debug\InvalidRangeException.exe
+D:\TELERIK\C# Proekti\OOP\005.HomeworkOOPPrinciplesII\InvalidRangeException\obj\Debug\InvalidRangeException.pdb

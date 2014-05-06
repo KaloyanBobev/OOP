@@ -1,0 +1,6 @@
+D:\TELERIK\C# Proekti\OOP\CommonTypeSystem\StudentClass\bin\Debug\StudentClass.exe.config
+D:\TELERIK\C# Proekti\OOP\CommonTypeSystem\StudentClass\obj\Debug\StudentClass.csprojResolveAssemblyReference.cache
+D:\TELERIK\C# Proekti\OOP\CommonTypeSystem\StudentClass\bin\Debug\StudentClass.exe
+D:\TELERIK\C# Proekti\OOP\CommonTypeSystem\StudentClass\bin\Debug\StudentClass.pdb
+D:\TELERIK\C# Proekti\OOP\CommonTypeSystem\StudentClass\obj\Debug\StudentClass.exe
+D:\TELERIK\C# Proekti\OOP\CommonTypeSystem\StudentClass\obj\Debug\StudentClass.pdb

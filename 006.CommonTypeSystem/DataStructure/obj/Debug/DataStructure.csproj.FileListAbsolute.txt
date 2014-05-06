@@ -1,0 +1,6 @@
+D:\TELERIK\C# Proekti\OOP\CommonTypeSystem\DataStructure\bin\Debug\DataStructure.exe.config
+D:\TELERIK\C# Proekti\OOP\CommonTypeSystem\DataStructure\obj\Debug\DataStructure.csprojResolveAssemblyReference.cache
+D:\TELERIK\C# Proekti\OOP\CommonTypeSystem\DataStructure\bin\Debug\DataStructure.exe
+D:\TELERIK\C# Proekti\OOP\CommonTypeSystem\DataStructure\bin\Debug\DataStructure.pdb
+D:\TELERIK\C# Proekti\OOP\CommonTypeSystem\DataStructure\obj\Debug\DataStructure.exe
+D:\TELERIK\C# Proekti\OOP\CommonTypeSystem\DataStructure\obj\Debug\DataStructure.pdb

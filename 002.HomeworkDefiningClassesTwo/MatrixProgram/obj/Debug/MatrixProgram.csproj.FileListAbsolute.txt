@@ -1,0 +1,6 @@
+D:\TELERIK\C# Proekti\OOP\002.HomeworkDefiningClassesTwo\MatrixProgram\bin\Debug\MatrixProgram.exe.config
+D:\TELERIK\C# Proekti\OOP\002.HomeworkDefiningClassesTwo\MatrixProgram\obj\Debug\MatrixProgram.csprojResolveAssemblyReference.cache
+D:\TELERIK\C# Proekti\OOP\002.HomeworkDefiningClassesTwo\MatrixProgram\bin\Debug\MatrixProgram.exe
+D:\TELERIK\C# Proekti\OOP\002.HomeworkDefiningClassesTwo\MatrixProgram\bin\Debug\MatrixProgram.pdb
+D:\TELERIK\C# Proekti\OOP\002.HomeworkDefiningClassesTwo\MatrixProgram\obj\Debug\MatrixProgram.exe
+D:\TELERIK\C# Proekti\OOP\002.HomeworkDefiningClassesTwo\MatrixProgram\obj\Debug\MatrixProgram.pdb

@@ -1,0 +1,6 @@
+D:\TELERIK\C# Proekti\OOP\001.HomeworkDefiningClassesOne\InformationForMobile\bin\Debug\InformationForMobile.exe.config
+D:\TELERIK\C# Proekti\OOP\001.HomeworkDefiningClassesOne\InformationForMobile\bin\Debug\InformationForMobile.exe
+D:\TELERIK\C# Proekti\OOP\001.HomeworkDefiningClassesOne\InformationForMobile\bin\Debug\InformationForMobile.pdb
+D:\TELERIK\C# Proekti\OOP\001.HomeworkDefiningClassesOne\InformationForMobile\obj\Debug\001.InformationForMobile.csprojResolveAssemblyReference.cache
+D:\TELERIK\C# Proekti\OOP\001.HomeworkDefiningClassesOne\InformationForMobile\obj\Debug\InformationForMobile.exe
+D:\TELERIK\C# Proekti\OOP\001.HomeworkDefiningClassesOne\InformationForMobile\obj\Debug\InformationForMobile.pdb

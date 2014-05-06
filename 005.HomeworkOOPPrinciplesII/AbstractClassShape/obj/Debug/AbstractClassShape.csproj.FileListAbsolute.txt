@@ -1,0 +1,9 @@
+D:\TELERIK\C# Proekti\OOP\HomeworkOOPPrinciplesII\AbstractClassShape\bin\Debug\AbstractClassShape.exe.config
+D:\TELERIK\C# Proekti\OOP\HomeworkOOPPrinciplesII\AbstractClassShape\obj\Debug\AbstractClassShape.csprojResolveAssemblyReference.cache
+D:\TELERIK\C# Proekti\OOP\HomeworkOOPPrinciplesII\AbstractClassShape\bin\Debug\AbstractClassShape.exe
+D:\TELERIK\C# Proekti\OOP\HomeworkOOPPrinciplesII\AbstractClassShape\bin\Debug\AbstractClassShape.pdb
+D:\TELERIK\C# Proekti\OOP\HomeworkOOPPrinciplesII\AbstractClassShape\obj\Debug\AbstractClassShape.exe
+D:\TELERIK\C# Proekti\OOP\HomeworkOOPPrinciplesII\AbstractClassShape\obj\Debug\AbstractClassShape.pdb
+D:\TELERIK\C# Proekti\OOP\005.HomeworkOOPPrinciplesII\AbstractClassShape\bin\Debug\AbstractClassShape.exe.config
+D:\TELERIK\C# Proekti\OOP\005.HomeworkOOPPrinciplesII\AbstractClassShape\obj\Debug\AbstractClassShape.exe
+D:\TELERIK\C# Proekti\OOP\005.HomeworkOOPPrinciplesII\AbstractClassShape\obj\Debug\AbstractClassShape.pdb

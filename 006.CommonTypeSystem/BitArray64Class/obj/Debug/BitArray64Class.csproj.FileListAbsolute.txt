@@ -1,0 +1,6 @@
+D:\TELERIK\C# Proekti\OOP\CommonTypeSystem\BitArray64Class\bin\Debug\BitArray64Class.exe.config
+D:\TELERIK\C# Proekti\OOP\CommonTypeSystem\BitArray64Class\obj\Debug\BitArray64Class.csprojResolveAssemblyReference.cache
+D:\TELERIK\C# Proekti\OOP\CommonTypeSystem\BitArray64Class\bin\Debug\BitArray64Class.exe
+D:\TELERIK\C# Proekti\OOP\CommonTypeSystem\BitArray64Class\bin\Debug\BitArray64Class.pdb
+D:\TELERIK\C# Proekti\OOP\CommonTypeSystem\BitArray64Class\obj\Debug\BitArray64Class.exe
+D:\TELERIK\C# Proekti\OOP\CommonTypeSystem\BitArray64Class\obj\Debug\BitArray64Class.pdb

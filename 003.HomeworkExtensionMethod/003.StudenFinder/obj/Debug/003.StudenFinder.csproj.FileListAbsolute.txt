@@ -1,0 +1,6 @@
+D:\TELERIK\C# Proekti\OOP\003.HomeworkExtensionMethod\003.StudenFinder\bin\Debug\003.StudenFinder.exe.config
+D:\TELERIK\C# Proekti\OOP\003.HomeworkExtensionMethod\003.StudenFinder\bin\Debug\003.StudenFinder.exe
+D:\TELERIK\C# Proekti\OOP\003.HomeworkExtensionMethod\003.StudenFinder\bin\Debug\003.StudenFinder.pdb
+D:\TELERIK\C# Proekti\OOP\003.HomeworkExtensionMethod\003.StudenFinder\obj\Debug\003.StudenFinder.csprojResolveAssemblyReference.cache
+D:\TELERIK\C# Proekti\OOP\003.HomeworkExtensionMethod\003.StudenFinder\obj\Debug\003.StudenFinder.exe
+D:\TELERIK\C# Proekti\OOP\003.HomeworkExtensionMethod\003.StudenFinder\obj\Debug\003.StudenFinder.pdb

@@ -1,0 +1,6 @@
+D:\TELERIK\C# Proekti\OOP\003.HomeworkExtensionMethod\ClassTimer\bin\Debug\ClassTimer.exe.config
+D:\TELERIK\C# Proekti\OOP\003.HomeworkExtensionMethod\ClassTimer\bin\Debug\ClassTimer.exe
+D:\TELERIK\C# Proekti\OOP\003.HomeworkExtensionMethod\ClassTimer\bin\Debug\ClassTimer.pdb
+D:\TELERIK\C# Proekti\OOP\003.HomeworkExtensionMethod\ClassTimer\obj\Debug\ClassTimer.csprojResolveAssemblyReference.cache
+D:\TELERIK\C# Proekti\OOP\003.HomeworkExtensionMethod\ClassTimer\obj\Debug\ClassTimer.exe
+D:\TELERIK\C# Proekti\OOP\003.HomeworkExtensionMethod\ClassTimer\obj\Debug\ClassTimer.pdb

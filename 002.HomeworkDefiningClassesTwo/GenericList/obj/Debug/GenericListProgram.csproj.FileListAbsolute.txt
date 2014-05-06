@@ -1,0 +1,6 @@
+D:\TELERIK\C# Proekti\OOP\002.HomeworkDefiningClassesTwo\GenericList\bin\Debug\GenericList.exe.config
+D:\TELERIK\C# Proekti\OOP\002.HomeworkDefiningClassesTwo\GenericList\bin\Debug\GenericList.exe
+D:\TELERIK\C# Proekti\OOP\002.HomeworkDefiningClassesTwo\GenericList\bin\Debug\GenericList.pdb
+D:\TELERIK\C# Proekti\OOP\002.HomeworkDefiningClassesTwo\GenericList\obj\Debug\GenericList.exe
+D:\TELERIK\C# Proekti\OOP\002.HomeworkDefiningClassesTwo\GenericList\obj\Debug\GenericList.pdb
+D:\TELERIK\C# Proekti\OOP\002.HomeworkDefiningClassesTwo\GenericList\obj\Debug\GenericListProgram.csprojResolveAssemblyReference.cache

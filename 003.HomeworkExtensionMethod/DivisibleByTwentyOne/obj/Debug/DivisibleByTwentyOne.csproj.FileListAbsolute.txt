@@ -1,0 +1,6 @@
+D:\TELERIK\C# Proekti\OOP\003.HomeworkExtensionMethod\DivisibleByTwentyOne\bin\Debug\DivisibleByTwentyOne.exe.config
+D:\TELERIK\C# Proekti\OOP\003.HomeworkExtensionMethod\DivisibleByTwentyOne\bin\Debug\DivisibleByTwentyOne.exe
+D:\TELERIK\C# Proekti\OOP\003.HomeworkExtensionMethod\DivisibleByTwentyOne\bin\Debug\DivisibleByTwentyOne.pdb
+D:\TELERIK\C# Proekti\OOP\003.HomeworkExtensionMethod\DivisibleByTwentyOne\obj\Debug\DivisibleByTwentyOne.csprojResolveAssemblyReference.cache
+D:\TELERIK\C# Proekti\OOP\003.HomeworkExtensionMethod\DivisibleByTwentyOne\obj\Debug\DivisibleByTwentyOne.exe
+D:\TELERIK\C# Proekti\OOP\003.HomeworkExtensionMethod\DivisibleByTwentyOne\obj\Debug\DivisibleByTwentyOne.pdb

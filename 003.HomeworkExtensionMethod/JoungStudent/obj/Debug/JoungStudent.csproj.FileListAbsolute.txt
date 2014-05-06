@@ -1,0 +1,5 @@
+D:\TELERIK\C# Proekti\OOP\003.HomeworkExtensionMethod\JoungStudent\bin\Debug\JoungStudent.exe.config
+D:\TELERIK\C# Proekti\OOP\003.HomeworkExtensionMethod\JoungStudent\bin\Debug\JoungStudent.exe
+D:\TELERIK\C# Proekti\OOP\003.HomeworkExtensionMethod\JoungStudent\bin\Debug\JoungStudent.pdb
+D:\TELERIK\C# Proekti\OOP\003.HomeworkExtensionMethod\JoungStudent\obj\Debug\JoungStudent.exe
+D:\TELERIK\C# Proekti\OOP\003.HomeworkExtensionMethod\JoungStudent\obj\Debug\JoungStudent.pdb

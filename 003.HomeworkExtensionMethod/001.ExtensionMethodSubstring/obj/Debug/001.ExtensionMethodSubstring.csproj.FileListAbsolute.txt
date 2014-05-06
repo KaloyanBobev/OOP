@@ -1,0 +1,6 @@
+D:\TELERIK\C# Proekti\OOP\003.HomeworkExtensionMethod\001.ExtensionMethodSubstring\bin\Debug\001.ExtensionMethodSubstring.exe.config
+D:\TELERIK\C# Proekti\OOP\003.HomeworkExtensionMethod\001.ExtensionMethodSubstring\obj\Debug\001.ExtensionMethodSubstring.csprojResolveAssemblyReference.cache
+D:\TELERIK\C# Proekti\OOP\003.HomeworkExtensionMethod\001.ExtensionMethodSubstring\bin\Debug\001.ExtensionMethodSubstring.exe
+D:\TELERIK\C# Proekti\OOP\003.HomeworkExtensionMethod\001.ExtensionMethodSubstring\bin\Debug\001.ExtensionMethodSubstring.pdb
+D:\TELERIK\C# Proekti\OOP\003.HomeworkExtensionMethod\001.ExtensionMethodSubstring\obj\Debug\001.ExtensionMethodSubstring.exe
+D:\TELERIK\C# Proekti\OOP\003.HomeworkExtensionMethod\001.ExtensionMethodSubstring\obj\Debug\001.ExtensionMethodSubstring.pdb

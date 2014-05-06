@@ -1,0 +1,6 @@
+D:\TELERIK\C# Proekti\OOP\002.HomeworkDefiningClassesTwo\Evclidian3DSpace\bin\Debug\Evclidian3DSpace.exe.config
+D:\TELERIK\C# Proekti\OOP\002.HomeworkDefiningClassesTwo\Evclidian3DSpace\bin\Debug\Evclidian3DSpace.exe
+D:\TELERIK\C# Proekti\OOP\002.HomeworkDefiningClassesTwo\Evclidian3DSpace\bin\Debug\Evclidian3DSpace.pdb
+D:\TELERIK\C# Proekti\OOP\002.HomeworkDefiningClassesTwo\Evclidian3DSpace\obj\Debug\Evclidian3DSpace.csprojResolveAssemblyReference.cache
+D:\TELERIK\C# Proekti\OOP\002.HomeworkDefiningClassesTwo\Evclidian3DSpace\obj\Debug\Evclidian3DSpace.exe
+D:\TELERIK\C# Proekti\OOP\002.HomeworkDefiningClassesTwo\Evclidian3DSpace\obj\Debug\Evclidian3DSpace.pdb

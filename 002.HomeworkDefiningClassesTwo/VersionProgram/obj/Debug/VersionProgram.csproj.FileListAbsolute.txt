@@ -1,0 +1,6 @@
+D:\TELERIK\C# Proekti\OOP\002.HomeworkDefiningClassesTwo\VersionProgram\bin\Debug\VersionProgram.exe.config
+D:\TELERIK\C# Proekti\OOP\002.HomeworkDefiningClassesTwo\VersionProgram\bin\Debug\VersionProgram.exe
+D:\TELERIK\C# Proekti\OOP\002.HomeworkDefiningClassesTwo\VersionProgram\bin\Debug\VersionProgram.pdb
+D:\TELERIK\C# Proekti\OOP\002.HomeworkDefiningClassesTwo\VersionProgram\obj\Debug\VersionProgram.csprojResolveAssemblyReference.cache
+D:\TELERIK\C# Proekti\OOP\002.HomeworkDefiningClassesTwo\VersionProgram\obj\Debug\VersionProgram.exe
+D:\TELERIK\C# Proekti\OOP\002.HomeworkDefiningClassesTwo\VersionProgram\obj\Debug\VersionProgram.pdb
